@@ -1,5 +1,3 @@
-# animal-rescue-rehabilitation-system
-Academic SAD project: Animal Rescue and Rehabilitation Coordination System.
 # 🐾 Animal Rescue & Rehabilitation Coordination System
 
 *A centralized platform for coordinating animal rescue, treatment, and rehabilitation activities.*
